@@ -1,4 +1,4 @@
-<html>
+{{-- <html>
 <style> 
 @media (min-width: 1025px) {
 .h-custom {
@@ -215,4 +215,4 @@ border-bottom-right-radius: 15px;
     </div>
   </section>
 </body>
-</html>
+</html> --}}

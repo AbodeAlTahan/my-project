@@ -11,7 +11,7 @@
     <form action="/users" method="post">
       <input type="text" name="user_name">
       <button type="submit">submit</button>
-      <p>abode al tahan</p>
+      <p>abode al</p>
       </form>
    </body>
 </html>
