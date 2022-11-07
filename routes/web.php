@@ -31,4 +31,6 @@ Route::get('/posts/create', function () {
     return view('posts_create');
     });
 
-    Route::get('posts', [PostsController::class, 'index'])
+    Route::get('/', function () {
+        return view('welcome');
+        });
